@@ -1,1 +1,1 @@
-[history](history.png)
+![history](history.png)
